@@ -1,5 +1,5 @@
 const { RsnChat } = require('rsnchat');
-let ai = new RsnChat('rsnai_77URql4VkEeS0VenuWccfgk5');
+let ai = new RsnChat('rsnai_Hw2hT2g5EXGwqz3baAmivalf');
 
 module.exports = {
   command: 'gpt',
